@@ -1,2 +1,2 @@
 # PreProcessing_medical-image
-You can find a python code usefull to the pre processing of medical image. You can find a lot of morphological operator applied to medical image
+You can find a python code for the pre processing of medical image. You can find a lot of morphological operator applied to medical image in the file called "Prova_11_12". While in the file "DL_project" u can find a method to cropping and resizing the medical images. At the end, is also avaible a matlab file that contains the way to apply the Transfer Learning, in order to avoid the fine tuning.
